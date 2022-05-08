@@ -1,3 +1,3 @@
 DRIVER_PATH="/Users/lucaszheng/Projects/chromedriver"
-URL="http://localhost:58982"
-SESSION_ID="119ca8deef24ceb85e75ab3e51fea9ce"
+URL="http://localhost:54291"
+SESSION_ID="e3733be49f1455b9e71a504480e1aaaa"
